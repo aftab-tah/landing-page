@@ -13,7 +13,7 @@ html,body{
 }
 
 .hero{
-    background-image: url(assets/images/developer.png);
+    background-image: url(assets/images/developer.webp);
     
     min-height: 90vh;
     background-position: center;
@@ -457,3 +457,4 @@ footer{
         font-size: 0.7rem;
     }
 }
+
